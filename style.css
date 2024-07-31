@@ -1,0 +1,13 @@
+.titoli{
+    font-family: "Tilt Warp", sans-serif;
+    
+}
+.paragrafi{
+    font-family: "Playwrite AR";
+    text-shadow: 3px 2px 6px #faf8f8;
+}
+.sub{
+    position: relative;
+    bottom: 20px;
+    
+}
