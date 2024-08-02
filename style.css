@@ -1,35 +1,54 @@
-.titoli{
+.titoli {
     font-family: "Tilt Warp", sans-serif;
-    
+
 }
-.paragrafi{
-    font-family: "Playwrite AR";
-    text-shadow: 3px 2px 6px #faf8f8;
+
+.paragrafi {
+    font-family: "Gupter", serif;
+    font-size: 70px;
+    font-weight: bolder;
+
+
+
 }
-.sub{
+
+.sub {
     position: relative;
     bottom: 20px;
-    
+
 }
 
-.caro{
+.caro {
     height: 60vh;
-    
+
 }
 
-.logo{
-max-height: 40px;
-max-width: 60vw;
+.logo {
+    max-height: 40px;
+    max-width: 60vw;
 }
 
-.centro{
+.centro {
     height: 50vh;
-    background-image:linear-gradient(0deg, rgba(251,249,249,0.5046393557422969) 0%, rgba(13,13,12,0.9864320728291317) 91%) ,url(img/2024-04-26.jpg) ;
+    background-image: linear-gradient(0deg, rgba(251, 249, 249, 0.5046393557422969) 0%, rgba(13, 13, 12, 0.9864320728291317) 91%), url(img/2024-04-26.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 
 }
-.navbar{
-    background-color: rgba(13,13,12,0.9864320728291317) ;
+
+.navbar {
+    background-color: rgba(13, 13, 12, 0.9864320728291317);
 }
+.fotoc{
+    width: 200px;
+    height: 200px;
+    border: 2px solid grey;
+    border-radius: 100%;
+    padding: 20px;
+}
+
+.back{
+    background-color: rgba(13, 13, 12, 0.9864320728291317);
+}
+
